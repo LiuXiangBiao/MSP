@@ -16,7 +16,7 @@ def list_ec2_instances(access_key, secret_key):
 
 if __name__ == "__main__":
     # 在这里替换为你的 AWS AK/SK
-    ACCESS_KEY = 'AKIA5GSFKBPCHEAVPAON'
-    SECRET_KEY = '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'
+    ACCESS_KEY = ''
+    SECRET_KEY = ''
     
     list_ec2_instances(ACCESS_KEY, SECRET_KEY)
