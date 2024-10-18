@@ -15,7 +15,7 @@ def list_ec2_instances(access_key, secret_key):
 
 if __name__ == "__main__":
   
-    ACCESS_KEY = ''
-    SECRET_KEY = ''
+    ACCESS_KEY = 'AKIA5GSFKBPCIG3P6ZIE'
+    SECRET_KEY = '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'
     
     list_ec2_instances(ACCESS_KEY, SECRET_KEY)
